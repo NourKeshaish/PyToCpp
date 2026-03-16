@@ -1,4 +1,4 @@
-# 🔄 PyToCpp
+# PyToCpp
 
 > A practical transition guide for Python developers learning C++ — covering syntax differences, memory management, and object-oriented programming comparisons.
 
@@ -9,7 +9,7 @@
 
 -----
 
-## 📌 About
+## About
 
 **PyToCpp** is a side-by-side reference guide for Python developers making the leap to C++. Instead of starting from scratch, this repo maps what you already know in Python to its C++ equivalent — making the transition faster and less painful.
 
@@ -17,7 +17,7 @@ Whether you’re switching careers, learning systems programming, or just expand
 
 -----
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 PyToCpp/
@@ -32,9 +32,9 @@ PyToCpp/
 
 -----
 
-## 📚 Topics Covered
+## Topics Covered
 
-### 1️⃣ Syntax Differences
+### Syntax Differences
 
 |Concept |Python |C++ |
 |--------------------|---------------------|--------------------------------|
@@ -49,7 +49,7 @@ PyToCpp/
 
 -----
 
-### 2️⃣ Memory Management & Pointers
+### Memory Management & Pointers
 
 One of the biggest differences between Python and C++ is **manual memory management**. Python handles this for you automatically — C++ does not.
 
@@ -77,7 +77,7 @@ delete heapVar; // Free — ALWAYS do this!
 
 -----
 
-### 3️⃣ OOP Comparisons
+### OOP Comparisons
 
 Python and C++ are both object-oriented, but C++ gives you much more control.
 
@@ -159,7 +159,7 @@ g++ examples/syntax_demo.cpp -o demo
 
 -----
 
-## 📈 Learning Roadmap
+## Learning Roadmap
 
 - [x] Syntax differences cheat sheet
 - [x] Memory management & pointers guide
