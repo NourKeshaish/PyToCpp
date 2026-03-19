@@ -190,7 +190,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## About Me
 
-I’m **Noor Keshaish**, an aerospace engineer passionate about programming and helping others learn. This repo is part of my mission to make C++ more approachable for the Python community.
+I’m **Noor Keshaish**, an Aerospace engineer & Aeronautical engineer passionate about programming and helping others learn. This repo is part of my mission to make C++ more approachable for the Python community.
 
 
 -----
